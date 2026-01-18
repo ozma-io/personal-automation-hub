@@ -1,13 +1,13 @@
 # Personal Automation Hub
 
+A personal automation hub for integrating various services.
+
 > ⚠️ **Status: Work in Progress / Currently Broken**
 >
 > This project is under active development and **is not functional at the moment**.
 > Things may be incomplete, unstable, or temporarily broken.
 >  
 > **Do not rely on this code in production yet.**
-
-A personal automation hub for integrating various services.
 
 ## Features
 
